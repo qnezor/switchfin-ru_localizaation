@@ -130,8 +130,8 @@
     },
     "filter": {
       "mirror": "Video flip",
-      "hflip": "Horizontally flip",
-      "vflip": "Vertically flip"
+      "hflip": "Отразить по горизонтали",
+      "vflip": "Отразить по вертикали"
     },
     "aspect": {
       "header": "Пропорции видео",
